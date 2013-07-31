@@ -14,7 +14,7 @@ global $RecipeInfo, $SkinName, $SkinRecipeName, $WikiStyleApply, $PageLogoUrl,
         $PageEditForm, $PageTextStartFmt;
 # Some Skin-specific values
 $RecipeInfo['FlatUISkin']['Version'] = '2013-07-30';
-$SkinName = 'FlatUI';
+$SkinName = 'flatui';
 $SkinRecipeName = "FlatUISkin";
 
 
